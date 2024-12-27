@@ -1,0 +1,12 @@
+.message-content {
+    font-size: 1rem;
+    margin-bottom: 5px;
+}
+
+.message.chatbot .message-content {
+    color: #333;
+}
+
+.message.user .message-content {
+    color: #000;
+}
